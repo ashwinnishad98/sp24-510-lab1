@@ -7,7 +7,7 @@ st.set_page_config(layout="wide")
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
     st.title("🙋‍♂️ Hi this is Ashwin's Website! 🙋‍♂️")
-    st.image("/Users/ashwinnishad/Downloads/UW/Spring24/510/sp24-510-lab1/pfp.jpeg")
+    st.image("pfp.jpeg")
 
 
 st.header("About Me")
